@@ -722,7 +722,7 @@ bird.wingdiv.appendChild(wing.canvas);
 bird.updatePos();
 
 
-var wall_cell_count = 24;
+var wall_cell_count = 70;
 
 var walls = [];
 var newWall = function (wall_val) {
