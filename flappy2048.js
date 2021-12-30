@@ -631,7 +631,7 @@ function newCell () {
  div.style.lineHeight = cell_size+'px'; // for vertical align of text
  div.style.position = 'absolute';
  div.style.textAlign = 'center';
- div.style.fontFamily = '"Lemon Milk Light", "Helvetica Neue", Arial, sans-serif';
+ div.style.fontFamily = '"Lemon Milk", "Clear Sans", Arial, sans-serif';
  div.style.fontSize = '70px';
  div.style.color = '#606060';
  div.style.fontWeight = 'bold';
