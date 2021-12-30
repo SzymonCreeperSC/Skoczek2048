@@ -605,9 +605,9 @@ var getValueStr = function (num) {
 }
 
 
-var text_colors = ['606060', '606060', '606060', 'ffffff'];
+var text_colors = ['606060', '606060', '606060', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', 'ffffff', '0000FF'];
 var tile_colors = ['ffffff', 'eee4da', 'ede0c8', 'f59d6d', 'f27d3e', 'f8805c', 'f74f31', 'edcf72', 'ebc84e', 'ebc43a', 'ebb525', 'eaad0d', 'cb8ecc'];
-var tile_colors_2 = ['D150CB', 'c93FB0', 'B52692', 'A0127D', '8C98FF', '6F7DFF', '4D5FFF', '402BFF', '1800F4', 'C1C1C1', 'B0B0B0', '939393', '808080', '686868', '4B4B4B', '363636', '272727', '000000', 'ff0000', '00ff00', '0000ff', '00ffff'];
+var tile_colors_2 = ['D150CB', 'c93FB0', 'B52692', 'A0127D', '8C98FF', '6F7DFF', '4D5FFF', '402BFF', '1800F4', 'C1C1C1', 'B0B0B0', '939393', '808080', '686868', '4B4B4B', '363636', '272727', '000000', 'ff0000', '00ff00', '0000ff', '00ffff', '00DDDD', '00BFBF', '009D9D', '008080', '006464', '004848', '730073', '840084', '9B009B', 'B500B5', 'C400C4', 'DD00DD', 'F000F0', 'FF00FF', 'FF55FF', 'FF71FF', 'FF95FF', 'FFBDFF', 'FFFFFF'];
 
 function newCell () {
  var cell = {};
